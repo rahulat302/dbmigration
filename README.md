@@ -1,1 +1,1 @@
-# dbmigration
+# sample sql script
